@@ -15,7 +15,7 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
     docs/
         index.md  # The documentation homepage.
         cusotmlink.md  # Customlink
-        DISCORD GUIDELINE/guideline a.md # guideline 1
-        DISCORD GUIDELINE/guideline b.md # guideline 2
+        DISCORD GUIDELINE/guideline a.md  # guideline 1
+        DISCORD GUIDELINE/guideline b.md  # guideline 2
         discord.md  # Discord Guideline
         ...       # Other markdown pages, images and other files.
