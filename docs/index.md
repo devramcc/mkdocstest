@@ -13,9 +13,7 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
     mkdocs.yml    # The configuration file.
     docs/
-        index.md  # The documentation homepage.
-        cusotmlink.md  # Customlink
-        DISCORD GUIDELINE/guideline a.md  # guideline 1
-        DISCORD GUIDELINE/guideline b.md  # guideline 2
-        discord.md  # Discord Guideline
+        Guideline Penggunaan Discord/Peraturan UMUM.md  #  Peraturan UMUM
+        Guideline Penggunaan Discord/Role & Achivement.md  #  Role & Achivement
+        Guideline Penggunaan Discord/Penggunaan BOT.md  #  Penggunaan BOT
         ...       # Other markdown pages, images and other files.
